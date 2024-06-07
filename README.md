@@ -11,9 +11,8 @@
 
 ## Technologies Utilisées
 - **Frontend** : HTML, CSS, JavaScript
-- **Backend** : Node.js, Express.js
-- **Base de Données** : MongoDB
-- **Outils** : Git, GitHub, Visual Studio Code
+- **Base de Données** : MySql
+- **Outils** : Git, GitHub, Visual Studio Code, Xampp
 
 ## Installation
 Pour exécuter ce projet en local, suivez ces étapes :

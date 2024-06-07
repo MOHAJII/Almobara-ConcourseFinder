@@ -19,4 +19,4 @@ Pour exécuter ce projet en local, suivez ces étapes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Almobara-Concourse-Finder.git
+   git clone https://github.com/votre-utilisateur/AlmobaraConcourseFinder.git

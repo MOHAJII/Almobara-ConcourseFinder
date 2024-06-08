@@ -12,7 +12,7 @@
 ## Technologies Utilisées
 - **Frontend** : HTML, CSS, JavaScript
 - **Base de Données** : MySql
-- **Outils** : Git, GitHub, Visual Studio Code, Xampp
+- **Outils** : Git, GitHub, Visual Studio Code, Xampp.
 
 ## Installation
 Pour exécuter ce projet en local, suivez ces étapes :
